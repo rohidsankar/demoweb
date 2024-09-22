@@ -1,0 +1,17 @@
+header{
+    width: 100vw;
+    height: auto60px;
+    overflow: hidden;
+    border-radius: solid 1px #ccc;
+    position: fixed;
+    top: 0;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header img{
+    width: 140px;
+}
+h1{margin-top: 70px;}
